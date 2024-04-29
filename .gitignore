@@ -1,0 +1,8 @@
+*.hex
+*.LST
+*.M51
+*.OBJ
+*.out
+*.txt
+*.#*
+project
